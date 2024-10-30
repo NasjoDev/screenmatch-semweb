@@ -1,4 +1,9 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÂ¤êÿÿÿÿÿ8‚°ÊÂ­2
-G	java:S106"+Replace this use of System.out by a logger.(øŒ¼Æ8«•ÕÂ­2
-X	java:S125"<This block of commented-out lines of code should be removed.(×©ùÙ8ğÌÜÂ­2
+g
+java:S1128"JRemove this unused import 'br.com.alura.Screenmatch.model.DadosTemporada'.(¾§çÛ8çîÉ­2
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8çîÉ­2
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8èîÉ­2

@@ -1,0 +1,35 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒî¶8›òüË­2
+t	java:S116"SRename this field "ENDERECO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÕÅùÿÿÿÿ8§òüË­2
+n	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( É‘8§òüË­2
+C
+java:S1170"!Make this final field static too.(ÕÕÅùÿÿÿÿ8§òüË­2
+>
+java:S1170"!Make this final field static too.( É‘8§òüË­2
+d
+java:S18543"BRemove this useless assignment to local variable "dadosEpisodios".(˜ áÅşÿÿÿÿ8®òüË­2
+L	java:S106"+Replace this use of System.out by a logger.(çø˜şÿÿÿÿ8¯òüË­2
+G	java:S106"+Replace this use of System.out by a logger.(¨Å“‹8¯òüË­2
+L	java:S106("+Replace this use of System.out by a logger.(î´’ùÿÿÿÿ8±òüË­2
+]	java:S125*"<This block of commented-out lines of code should be removed.(äÍ¼™üÿÿÿÿ8±òüË­2
+G	java:S1061"+Replace this use of System.out by a logger.(Ó°¶æ8²òüË­2
+o
+java:S62045"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8²òüË­2
+U
+java:S14813"3Remove this unused "dadosEpisodios" local variable.(˜ áÅşÿÿÿÿ8³òüË­2
+]	java:S1259"<This block of commented-out lines of code should be removed.(öÆÂŒşÿÿÿÿ8³òüË­2
+o
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš8³òüË­2
+L	java:S106J"+Replace this use of System.out by a logger.(Åì“¬ıÿÿÿÿ8´òüË­2
+L	java:S106L"+Replace this use of System.out by a logger.(úÜÀ…ÿÿÿÿÿ8´òüË­2
+F	java:S106S"+Replace this use of System.out by a logger.( µ­=8µòüË­2
+L	java:S106T"+Replace this use of System.out by a logger.(É¨Úûùÿÿÿÿ8µòüË­2
+L	java:S106V"+Replace this use of System.out by a logger.(Îğğóüÿÿÿÿ8†ÁşË­2
+]	java:S125Z"<This block of commented-out lines of code should be removed.(œå€¹üÿÿÿÿ8µòüË­2
+Q
+java:S1128
+"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8µòüË­2
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8µòüË­2
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8¶òüË­2

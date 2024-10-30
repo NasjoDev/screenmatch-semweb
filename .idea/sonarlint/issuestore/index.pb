@@ -11,3 +11,11 @@ C
 Screenmatch/pom.xml,2\d\2d4cf123fd5d6bfe985c456ae1218d438fdf9b8e
 }
 MScreenmatch/src/main/java/br/com/alura/Screenmatch/service/ConverteDados.java,9\7\9790aafe1cf96205c2ea665a701bab23bb8357ce
+|
+LScreenmatch/src/main/java/br/com/alura/Screenmatch/model/DadosTemporada.java,2\e\2e82bc97671f7c7d9671535572874000a4ed2002
+{
+KScreenmatch/src/main/java/br/com/alura/Screenmatch/model/DadosEpisodio.java,5\3\5339c86de05f225d0c3561b3af8f9dd853c098ea
+v
+FScreenmatch/src/main/java/br/com/alura/Screenmatch/model/Episodio.java,b\3\b335087fe6d1dd810116987a2eaf477797becbef
+{
+KScreenmatch/src/main/java/br/com/alura/Screenmatch/principal/Principal.java,f\c\fc83df3db2cd34342e5a4721d3b7a8bd7cadb9a0
